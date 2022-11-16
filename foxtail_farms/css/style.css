@@ -57,12 +57,14 @@ a.nav-item{
 h2{
   font-family: lobster;
   color:#e1a177;
+  align-items: center;
 }
 
 p{
   font-family: montserrat;
   font-size: 15px;
   color:red;
+  align-items: center;
 }
 
 .row{
@@ -82,6 +84,7 @@ p{
 #first{
   background-color: #e1a177;
   color:black;
+  align-items: center;
 }
 
 #footer{
